@@ -1,0 +1,5 @@
+# Entry point for the app
+import ui
+
+if __name__ == '__main__':
+    ui.run_app()
